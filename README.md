@@ -7,3 +7,10 @@ El objetivo de este proyecto es crear una API de una tienda de productos para re
 ## Tecnologías
 
 - JSON Server
+
+## Ejecución
+
+```bash
+npm install
+npm run start
+```
