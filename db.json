@@ -3,11 +3,12 @@
     {
       "id": "1001-2024",
       "date": "2024-06-01",
+      "address": "Calle Falsa 123, Ciudad de México",
       "client": {
         "id": 1,
         "name": "Juan Pérez",
         "email": "juan.perez@email.com",
-        "address": "Calle Falsa 123, Ciudad de México"
+        "phone": "555-1234-001"
       },
       "products": [
         {
@@ -30,11 +31,12 @@
     {
       "id": "1002-2024",
       "date": "2024-06-03",
+      "address": "Avenida Siempre Viva 456, Guadalajara",
       "client": {
         "id": 2,
         "name": "María López",
         "email": "maria.lopez@email.com",
-        "address": "Avenida Siempre Viva 456, Guadalajara"
+        "phone": "555-1234-002"
       },
       "products": [
         {
@@ -57,11 +59,12 @@
     {
       "id": "1003-2024",
       "date": "2024-06-05",
+      "address": "Boulevard Reforma 789, Monterrey",
       "client": {
         "id": 3,
         "name": "Carlos Ramírez",
         "email": "carlos.ramirez@email.com",
-        "address": "Boulevard Reforma 789, Monterrey"
+        "phone": "555-1234-003"
       },
       "products": [
         {
@@ -84,11 +87,12 @@
     {
       "id": "1004-2024",
       "date": "2024-06-07",
+      "address": "Calle Principal 321, Puebla",
       "client": {
         "id": 4,
         "name": "Ana García",
         "email": "ana.garcia@email.com",
-        "address": "Calle Principal 321, Puebla"
+        "phone": "555-1234-004"
       },
       "products": [
         {
@@ -111,11 +115,12 @@
     {
       "id": "1005-2024",
       "date": "2024-06-09",
+      "address": "Avenida Juárez 654, Tijuana",
       "client": {
         "id": 5,
         "name": "Roberto Silva",
         "email": "roberto.silva@email.com",
-        "address": "Avenida Juárez 654, Tijuana"
+        "phone": "555-1234-005"
       },
       "products": [
         {
@@ -138,11 +143,12 @@
     {
       "id": "1006-2024",
       "date": "2024-06-11",
+      "address": "Calle Morelos 987, Mérida",
       "client": {
         "id": 6,
         "name": "Laura Martínez",
         "email": "laura.martinez@email.com",
-        "address": "Calle Morelos 987, Mérida"
+        "phone": "555-1234-006"
       },
       "products": [
         {
@@ -165,11 +171,12 @@
     {
       "id": "1007-2024",
       "date": "2024-06-13",
+      "address": "Boulevard Constitución 147, León",
       "client": {
         "id": 7,
         "name": "Fernando Torres",
         "email": "fernando.torres@email.com",
-        "address": "Boulevard Constitución 147, León"
+        "phone": "555-1234-007"
       },
       "products": [
         {
@@ -192,11 +199,12 @@
     {
       "id": "1008-2024",
       "date": "2024-06-15",
+      "address": "Avenida Hidalgo 258, Querétaro",
       "client": {
         "id": 8,
         "name": "Patricia Ruiz",
         "email": "patricia.ruiz@email.com",
-        "address": "Avenida Hidalgo 258, Querétaro"
+        "phone": "555-1234-008"
       },
       "products": [
         {
@@ -219,11 +227,12 @@
     {
       "id": "1009-2024",
       "date": "2024-06-17",
+      "address": "Calle Independencia 369, San Luis Potosí",
       "client": {
         "id": 9,
         "name": "Miguel Ángel Vargas",
         "email": "miguel.vargas@email.com",
-        "address": "Calle Independencia 369, San Luis Potosí"
+        "phone": "555-1234-009"
       },
       "products": [
         {
@@ -246,11 +255,12 @@
     {
       "id": "1010-2024",
       "date": "2024-06-19",
+      "address": "Avenida Revolución 741, Hermosillo",
       "client": {
         "id": 10,
         "name": "Carmen Herrera",
         "email": "carmen.herrera@email.com",
-        "address": "Avenida Revolución 741, Hermosillo"
+        "phone": "555-1234-010"
       },
       "products": [
         {
@@ -273,11 +283,12 @@
     {
       "id": "1011-2024",
       "date": "2024-06-21",
+      "address": "Calle Zaragoza 852, Culiacán",
       "client": {
         "id": 11,
         "name": "Diego Morales",
         "email": "diego.morales@email.com",
-        "address": "Calle Zaragoza 852, Culiacán"
+        "phone": "555-1234-011"
       },
       "products": [
         {
@@ -300,11 +311,12 @@
     {
       "id": "1012-2024",
       "date": "2024-06-23",
+      "address": "Boulevard Libertad 963, Chihuahua",
       "client": {
         "id": 12,
         "name": "Sofía Mendoza",
         "email": "sofia.mendoza@email.com",
-        "address": "Boulevard Libertad 963, Chihuahua"
+        "phone": "555-1234-012"
       },
       "products": [
         {
@@ -327,11 +339,12 @@
     {
       "id": "1013-2024",
       "date": "2024-06-25",
+      "address": "Avenida Madero 147, Durango",
       "client": {
         "id": 13,
         "name": "Ricardo Jiménez",
         "email": "ricardo.jimenez@email.com",
-        "address": "Avenida Madero 147, Durango"
+        "phone": "555-1234-013"
       },
       "products": [
         {
@@ -354,11 +367,12 @@
     {
       "id": "1014-2024",
       "date": "2024-06-27",
+      "address": "Calle Guerrero 258, Zacatecas",
       "client": {
         "id": 14,
         "name": "Elena Castro",
         "email": "elena.castro@email.com",
-        "address": "Calle Guerrero 258, Zacatecas"
+        "phone": "555-1234-014"
       },
       "products": [
         {
@@ -381,11 +395,12 @@
     {
       "id": "1015-2024",
       "date": "2024-06-29",
+      "address": "Avenida Morelos 369, Aguascalientes",
       "client": {
         "id": 15,
         "name": "Arturo Luna",
         "email": "arturo.luna@email.com",
-        "address": "Avenida Morelos 369, Aguascalientes"
+        "phone": "555-1234-015"
       },
       "products": [
         {
@@ -408,11 +423,12 @@
     {
       "id": "1016-2024",
       "date": "2024-07-01",
+      "address": "Calle Allende 741, Colima",
       "client": {
         "id": 16,
         "name": "Verónica Ríos",
         "email": "veronica.rios@email.com",
-        "address": "Calle Allende 741, Colima"
+        "phone": "555-1234-016"
       },
       "products": [
         {
@@ -435,11 +451,12 @@
     {
       "id": "1017-2024",
       "date": "2024-07-03",
+      "address": "Boulevard Juárez 852, Nayarit",
       "client": {
         "id": 17,
         "name": "Héctor Delgado",
         "email": "hector.delgado@email.com",
-        "address": "Boulevard Juárez 852, Nayarit"
+        "phone": "555-1234-017"
       },
       "products": [
         {
@@ -462,11 +479,12 @@
     {
       "id": "1018-2024",
       "date": "2024-07-05",
+      "address": "Avenida Constitución 963, Sinaloa",
       "client": {
         "id": 18,
         "name": "Adriana Vega",
         "email": "adriana.vega@email.com",
-        "address": "Avenida Constitución 963, Sinaloa"
+        "phone": "555-1234-018"
       },
       "products": [
         {
@@ -489,11 +507,12 @@
     {
       "id": "1019-2024",
       "date": "2024-07-07",
+      "address": "Calle Reforma 147, Sonora",
       "client": {
         "id": 19,
         "name": "Oscar Paredes",
         "email": "oscar.paredes@email.com",
-        "address": "Calle Reforma 147, Sonora"
+        "phone": "555-1234-019"
       },
       "products": [
         {
@@ -516,11 +535,12 @@
     {
       "id": "1020-2024",
       "date": "2024-07-09",
+      "address": "Avenida Libertad 258, Baja California",
       "client": {
         "id": 20,
         "name": "Isabel Moreno",
         "email": "isabel.moreno@email.com",
-        "address": "Avenida Libertad 258, Baja California"
+        "phone": "555-1234-020"
       },
       "products": [
         {
