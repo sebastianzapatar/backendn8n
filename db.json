@@ -3,7 +3,7 @@
     {
       "id": "1001-2024",
       "date": "2024-06-01",
-      "address": "Calle Falsa 123, Ciudad de México",
+      "address": "actualizar la direccion de origen",
       "client": {
         "id": 1,
         "name": "Juan Pérez",
@@ -31,7 +31,7 @@
     {
       "id": "1002-2024",
       "date": "2024-06-03",
-      "address": "Avenida Siempre Viva 456, Guadalajara",
+      "address": "calle increible siii",
       "client": {
         "id": 2,
         "name": "María López",
